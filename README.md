@@ -46,7 +46,8 @@ b2b-lead-intel/
 │   ├── cert_matrix.md            # 各国准入认证速查矩阵 + 行业补充区（模板，需填）
 │   ├── action_playbook.md        # 分类型确认问题库 & 7 天话术钩子
 │   └── decision_chain.md         # KP 角色定义 / 分类型链条模型 / 检索式 / 风险预警
-├── README.md
+├── README.md                     # 中文说明
+├── README_EN.md                  # English README
 └── LICENSE
 ```
 
