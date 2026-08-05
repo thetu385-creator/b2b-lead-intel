@@ -40,12 +40,15 @@
 
 ```
 b2b-lead-intel/
-├── SKILL.md                      # 技能主文件（8 阶段工作流 + 速览卡 + 5 维评分 + 输出模板）
+├── SKILL.md                      # 技能主文件（中文，8 阶段工作流 + 速览卡 + 5 维评分 + 输出模板）
+├── SKILL_EN.md                   # 英文版技能主文件（同一套方法论，供英文语境使用）
 ├── references/
 │   ├── product_competitors.md    # 产品库 / 技术规格 / 竞品地图（模板，需填）
 │   ├── cert_matrix.md            # 各国准入认证速查矩阵 + 行业补充区（模板，需填）
 │   ├── action_playbook.md        # 分类型确认问题库 & 7 天话术钩子
 │   └── decision_chain.md         # KP 角色定义 / 分类型链条模型 / 检索式 / 风险预警
+├── examples/
+│   └── sample_report.md          # 脱敏示例报告（虚构数据，展示输出格式）
 ├── README.md                     # 中文说明
 ├── README_EN.md                  # English README
 └── LICENSE

@@ -40,12 +40,15 @@ Until these two are filled, Stage 5/6 judgments will be empty — by design, so 
 
 ```
 b2b-lead-intel/
-├── SKILL.md                      # Main skill file (8-stage workflow + snapshot + 5-dim scoring + output templates)
+├── SKILL.md                      # Main skill file (Chinese; 8-stage workflow + snapshot + 5-dim scoring + output templates)
+├── SKILL_EN.md                   # English version of the skill file (same methodology, for English use)
 ├── references/
 │   ├── product_competitors.md    # Product library / specs / competitor map (template, fill in)
 │   ├── cert_matrix.md            # Country market-access cert matrix + industry supplement (template, fill in)
 │   ├── action_playbook.md        # Typed confirmation question bank & 7-day talk-track hooks
 │   └── decision_chain.md         # KP role definitions / typed chain models / search patterns / risk warnings
+├── examples/
+│   └── sample_report.md          # De-identified sample report (fictional data; demonstrates the output format)
 ├── README.md                     # Chinese README
 ├── README_EN.md                  # English README
 └── LICENSE
